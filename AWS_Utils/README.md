@@ -1,0 +1,1 @@
+These tools shall be used for some activities related to AWS and hence added into this folder.
