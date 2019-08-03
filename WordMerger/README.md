@@ -1,0 +1,1 @@
+Word Merger -> Point this tool to a folder containing .docx files and it will merge them into a single .docx file and place it in the same folder
